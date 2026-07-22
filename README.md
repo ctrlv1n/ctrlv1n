@@ -1,4 +1,4 @@
-[![@abhinendrayadav3's Holopin board](https://holopin.me/abhinendrayadav3)](https://holopin.io/@abhinendrayadav3)
+
 
 <h1 align="center">Hello, I'm Bhavin Bhatti</h1>
 <h3 align="center">A passionate fin-tech developer </h3>
